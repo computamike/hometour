@@ -1,2 +1,2 @@
 web: node server.js
-release: adonis migration:run --force
+release: adonis migration:run
