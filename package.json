@@ -28,7 +28,8 @@
     "@adonisjs/session": "^1.0.23",
     "@adonisjs/shield": "^1.0.6",
     "adonis-schema-builder": "^0.1.6",
-    "sqlite": "^2.9.1"
+    "sqlite": "^2.9.1",
+    "sqlite3": "^4.0.0"
   },
   "devDependencies": {},
   "autoload": {
